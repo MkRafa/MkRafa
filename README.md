@@ -28,7 +28,7 @@ My product bar for AI: **outputs that can be checked, not just trusted.** Every 
 ## 🧠 How I work
 
 - **Prioritise by value vs effort**, write the PRD, and define the solution architecture for each use case
-- **Prototype before handoff:** I build agent flows in Claude and Lovable to stress-test LLM edge cases and fallback logic, so AI scientists get a concrete interaction spec and fewer requirements change mid-sprint
+- **Prototype before handoff:** I build agent flows in Claude Code and Codex to stress-test LLM edge cases and fallback logic, so AI scientists get a concrete interaction spec and fewer requirements change mid-sprint
 - **Use LLMs only where judgment is needed** and keep the rest deterministic, to control latency, cost and auditability
 - **Tie AI features to business KPIs** (CSAT, AHT, retention, adoption) and review them with customers
 
