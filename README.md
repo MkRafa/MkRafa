@@ -79,9 +79,9 @@ I prototype to pressure-test product ideas before they reach a roadmap. These re
 
 ## 🧰 Toolkit
 
-**Product:** roadmapping · PRDs · solution architecture · customer discovery · QBRs · Figma · JIRA · Asana · SQL · Salesforce
-**AI:** agentic workflows · LLM evaluation & prompt engineering · RAG · MCP servers · conversational AI (ASR / NLP / TTS / STT) · Voice AI & IVR · OCR pipelines · RPA
-**Prototyping:** Claude · Lovable · ElevenLabs · Retell AI · Python · AWS
+- **Product:** roadmapping · PRDs · solution architecture · customer discovery · QBRs · Figma · JIRA · Asana · SQL · Salesforce
+- **AI:** agentic workflows · LLM evaluation & prompt engineering · RAG · MCP servers · conversational AI (ASR / NLP / TTS / STT) · Voice AI & IVR · OCR pipelines · RPA
+- **Prototyping:** Claude · Lovable · ElevenLabs · Retell AI · Python · AWS
 
 ---
 
