@@ -38,13 +38,6 @@ My product bar for AI: **outputs that can be checked, not just trusted.** Every 
 
 I prototype to pressure-test product ideas before they reach a roadmap. These repos are where I work out what "good" looks like and how to measure it.
 
-### [Coverage Determination Agent](https://github.com/MkRafa/agentic-rag-coverage-determination)
-**Problem:** coverage questions ("is procedure C covered for condition D under plan L on date T?") need an answer *and* the policy clause that proves it.
-
-**Approach:** an agent retrieves and cites policy clauses, a verifier re-checks every citation, and a rules-based gate decides whether to answer, escalate to a human, or refuse. The models reason, but they never make the final call.
-
-`Agentic RAG` `MCP` `152-case eval suite`
-
 ### [resume-agent](https://github.com/MkRafa/resume-agent)
 **Problem:** candidates can't tell if they fit a role, and AI-written resumes invent things.
 
@@ -53,6 +46,13 @@ I prototype to pressure-test product ideas before they reach a roadmap. These re
 **Results:** 82% agreement with human labels and 0 over-generous verdicts; the fact-checker missed 0 of 12 planted fabrications.
 
 `LangGraph` `LLM evaluation` `Hallucination detection`
+
+### [Coverage Determination Agent](https://github.com/MkRafa/agentic-rag-coverage-determination)
+**Problem:** coverage questions ("is procedure C covered for condition D under plan L on date T?") need an answer *and* the policy clause that proves it.
+
+**Approach:** an agent retrieves and cites policy clauses, a verifier re-checks every citation, and a rules-based gate decides whether to answer, escalate to a human, or refuse. The models reason, but they never make the final call.
+
+`Agentic RAG` `MCP` `152-case eval suite`
 
 ### [Clinical Trial Pre-Screening](https://github.com/MkRafa/ct-prescreening)
 **Problem:** coordinators manually screen patient notes against long inclusion/exclusion criteria.
@@ -97,4 +97,4 @@ I prototype to pressure-test product ideas before they reach a roadmap. These re
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mann--khivasara-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/mann-khivasara)
 [![Email](https://img.shields.io/badge/Email-mannkhivasara%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:mannkhivasara@gmail.com)
 
-Always happy to talk agentic products, AI evals, or healthcare AI.
+Always happy to talk AI products, Agentic Systems & Workflow Automations.
