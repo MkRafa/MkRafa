@@ -40,18 +40,25 @@ I prototype to pressure-test product ideas before they reach a roadmap. These re
 
 ### [Coverage Determination Agent](https://github.com/MkRafa/agentic-rag-coverage-determination)
 **Problem:** coverage questions ("is procedure C covered for condition D under plan L on date T?") need an answer *and* the policy clause that proves it.
+
 **Approach:** an agent retrieves and cites policy clauses, a verifier re-checks every citation, and a rules-based gate decides whether to answer, escalate to a human, or refuse. The models reason, but they never make the final call.
+
 `Agentic RAG` `MCP` `152-case eval suite`
 
 ### [resume-agent](https://github.com/MkRafa/resume-agent)
 **Problem:** candidates can't tell if they fit a role, and AI-written resumes invent things.
+
 **Approach:** grade the candidate against each requirement with cited evidence, then write a tailored resume where every claim traces back to a real fact.
+
 **Results:** 82% agreement with human labels and 0 over-generous verdicts; the fact-checker missed 0 of 12 planted fabrications.
+
 `LangGraph` `LLM evaluation` `Hallucination detection`
 
 ### [Clinical Trial Pre-Screening](https://github.com/MkRafa/ct-prescreening)
 **Problem:** coordinators manually screen patient notes against long inclusion/exclusion criteria.
+
 **Approach:** the LLM judges each criterion with evidence; the final eligibility decision is plain code, so it stays auditable.
+
 `Healthcare AI` `Document extraction`
 
 <details>
