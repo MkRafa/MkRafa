@@ -8,6 +8,7 @@ My product bar for AI: **outputs that can be checked, not just trusted.** Every 
 - 💼 **Before:** 3 years at **Sprinklr** (NYSE: CXM), growing from Product Analyst to Product Manager – Lead, with a team of 13 and a portfolio of 45 enterprise clients including Microsoft and Aramex.
 - 🎓 International MBA, **IE Business School** (Madrid) · B.Tech, **IIT Hyderabad**
 - 📍 Bengaluru, India · 🗣️ English, Hindi, Marathi
+- 🌐 **Portfolio:** [mkrafa.github.io](https://mkrafa.github.io)
 
 ---
 
@@ -94,6 +95,7 @@ I prototype to pressure-test product ideas before they reach a roadmap. These re
 
 ## 📫 Reach me
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-mkrafa.github.io-FF5A36?logo=googlechrome&logoColor=white)](https://mkrafa.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mann--khivasara-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/mann-khivasara)
 [![Email](https://img.shields.io/badge/Email-mannkhivasara%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:mannkhivasara@gmail.com)
 
