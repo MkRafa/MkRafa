@@ -26,13 +26,6 @@ My product bar for AI: **outputs that can be checked, not just trusted.** Every 
 - **Onboarding time cut 30%** with vertical playbooks; **9,000 new users activated** through an in-app onboarding programme
 - **SLA resolution cut by 4.5 hrs (CCaaS) and 3 hrs (Social)** with recommendation engines and auto-response workflows
 
-## 🧠 How I work
-
-- **Prioritise by value vs effort**, write the PRD, and define the solution architecture for each use case
-- **Prototype before handoff:** I build agent flows in Claude Code and Codex to stress-test LLM edge cases and fallback logic, so AI scientists get a concrete interaction spec and fewer requirements change mid-sprint
-- **Use LLMs only where judgment is needed** and keep the rest deterministic, to control latency, cost and auditability
-- **Tie AI features to business KPIs** (CSAT, AHT, retention, adoption) and review them with customers
-
 ---
 
 ## 🛠️ Hands-on builds
@@ -90,6 +83,13 @@ I prototype to pressure-test product ideas before they reach a roadmap. These re
 - **Product:** roadmapping · PRDs · solution architecture · customer discovery · QBRs · Figma · JIRA · Asana · SQL · Salesforce
 - **AI:** agentic workflows · LLM evaluation & prompt engineering · RAG · MCP servers · conversational AI (ASR / NLP / TTS / STT) · Voice AI & IVR · OCR pipelines · RPA
 - **Prototyping:** Claude Code · Codex · Cursor · Lovable · ElevenLabs · Retell AI · LangGraph · Python · AWS
+
+## 🧠 How I work
+
+- **Prioritise by value vs effort**, write the PRD, and define the solution architecture for each use case
+- **Prototype before handoff:** I build agent flows in Claude Code and Codex to stress-test LLM edge cases and fallback logic, so AI scientists get a concrete interaction spec and fewer requirements change mid-sprint
+- **Use LLMs only where judgment is needed** and keep the rest deterministic, to control latency, cost and auditability
+- **Tie AI features to business KPIs** (CSAT, AHT, retention, adoption) and review them with customers
 
 ---
 
