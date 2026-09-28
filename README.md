@@ -89,7 +89,7 @@ I prototype to pressure-test product ideas before they reach a roadmap. These re
 
 - **Product:** roadmapping · PRDs · solution architecture · customer discovery · QBRs · Figma · JIRA · Asana · SQL · Salesforce
 - **AI:** agentic workflows · LLM evaluation & prompt engineering · RAG · MCP servers · conversational AI (ASR / NLP / TTS / STT) · Voice AI & IVR · OCR pipelines · RPA
-- **Prototyping:** Claude Code · Codex · Cursor · Lovable · ElevenLabs · Retell AI · Python · AWS
+- **Prototyping:** Claude Code · Codex · Cursor · Lovable · ElevenLabs · Retell AI · LangGraph · Python · AWS
 
 ---
 
