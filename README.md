@@ -98,5 +98,6 @@ I prototype to pressure-test product ideas before they reach a roadmap. These re
 [![Portfolio](https://img.shields.io/badge/Portfolio-mkrafa.github.io-FF5A36?logo=googlechrome&logoColor=white)](https://mkrafa.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mann--khivasara-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/mann-khivasara)
 [![Email](https://img.shields.io/badge/Email-mannkhivasara%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:mannkhivasara@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B91%2094039%2009136-25D366?logo=phone&logoColor=white)](tel:+919403909136)
 
 Always happy to talk AI products, Agentic Systems & Workflow Automations.
